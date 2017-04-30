@@ -12,6 +12,6 @@
     ]
   },
   "routes": {
-    "/": { "id": "home", "iframe": "https://benlowry.github.io/test-app/", "proxy": true }
+    "/": { "id": "home", "iframe": "https://benlowry.github.io/test-app/hungry-shapes.html", "proxy": true }
   }
 }
