@@ -1,6 +1,8 @@
 {
   "title": "Test web app",
   "description": "This is my app description",
+  "title": "Sample web app",
+  "description": "If you click install this will be added to your app menu!",
   "developer": {
     "name": "I.P. Freely",
     "website": "https://www.ipfreely.com/"
@@ -9,7 +11,7 @@
   "information": "",
   "navbars": {
     "default": [
-      { "url": "/home", "text": "App home" }
+      { "url": "/", "text": "App home" }
     ]
   },
   "routes": {
