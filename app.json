@@ -9,7 +9,7 @@
   "information": "https://benlowry.github.io/test-app/",
   "navbars": {
     "default": [
-      { "url": "/home", "text": "My app" }
+      { "url": "/", "text": "My app" }
     ]
   },
   "routes": {
