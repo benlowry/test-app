@@ -15,6 +15,6 @@
     ]
   },
   "routes": {
-    "/": { "id": "home", "iframe": "https://benlowry.github.io/test-app/app6.html", "proxy": true }
+    "/": { "id": "home", "iframe": "https://benlowry.github.io/test-app/app7.html", "proxy": true }
   }
 }
