@@ -1,18 +1,20 @@
 {
+  "title": "Test web app",
+  "description": "This is my app description",
   "title": "Sample web app",
   "description": "If you click install this will be added to your app menu!",
   "developer": {
-    "name": "Tasselfozdy",
-    "website": "https://www.tasselfozdy.com/"
+    "name": "I.P. Freely",
+    "website": "https://www.ipfreely.com/"
   },
-  "support": "support@mywebsite.com",
-  "information": "https://benlowry.github.io/test-app/",
+  "support": "",
+  "information": "",
   "navbars": {
     "default": [
-      { "url": "/", "text": "My app" }
+      { "url": "/", "text": "App home" }
     ]
   },
   "routes": {
-    "/": { "id": "home", "iframe": "https://benlowry.github.io/test-app/hungry-shapes.html", "proxy": true }
+    "/": { "id": "home", "iframe": "https://benlowry.github.io/test-app/app.html", "proxy": true }
   }
 }
