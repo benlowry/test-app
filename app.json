@@ -1,0 +1,17 @@
+{
+  "title": "Hungry 4 Sitelocks",
+  "developer": {
+    "name": "Tasselfozdy",
+    "website": "https://www.tasselfozdy.com/"
+  },
+  "support": "support@mywebsite.com",
+  "information": "https://benlowry.github.io/test-app/",
+  "navbars": {
+    "default": [
+      { "url": "/home", "text": "My app" }
+    ]
+  },
+  "routes": {
+    "/": { "id": "home", "iframe": "https://benlowry.github.io/test-app/", "proxy": true }
+  }
+}
