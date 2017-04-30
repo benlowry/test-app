@@ -15,6 +15,6 @@
     ]
   },
   "routes": {
-    "/": { "id": "home", "iframe": "http://ozdy.com", "proxy": true }
+    "/": { "id": "home", "iframe": "http://ozdy.com" }
   }
 }
