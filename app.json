@@ -11,7 +11,7 @@
   "information": "",
   "navbars": {
     "default": [
-      { "url": "/", "text": "App home" }
+      { "url": "home", "text": "Browser information" }
     ]
   },
   "routes": {
