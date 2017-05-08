@@ -1,14 +1,12 @@
 {
-  "title": "Test web app",
-  "description": "This is my app description",
-  "title": "Sample web app",
-  "description": "If you click install this will be added to your app menu!",
+  "title": "Test App",
+  "description": "The test app doesn't really do much more than demonstrate the installation process.",
   "developer": {
-    "name": "I.P. Freely",
-    "website": "https://www.ipfreely.com/"
+    "name": "Ben Lowryy",
+    "website": "https://blankaccount.com/"
   },
-  "support": "",
-  "information": "",
+  "support": "benlowry@outlook.com",
+  "information": "https://github.com/benlowry/test-app",
   "navbars": {
     "default": [
       { "url": "home", "text": "Browser information" }
